@@ -2,3 +2,6 @@ https://radiopaedia.org/cases/normal-anterior-lung-ultrasound-1
 Butterfly
 AtlasPocus
 Gred
+
+Consolidation = More specific of regular pneumonia, but Covid ends look like this or trigger a bacteriial infection which turns into a consolidation. ("known as hepatization because the lung is becoming so thick that  it looks like a liver on the  screen)
+Skip Lesion = More specific of bacteriel pneumonia
